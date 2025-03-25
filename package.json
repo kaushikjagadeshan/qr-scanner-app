@@ -1,0 +1,19 @@
+{
+  "name": "scanner",
+  "version": "1.0.0",
+  "description": "Barcode scanner application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "electron": "^25.2.0"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "keywords": []
+}
